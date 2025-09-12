@@ -43,7 +43,7 @@ The following classical ML models were trained and compared on the same PCA‑re
 | Logistic Regression | 0.39 | Underfit on this high‑dimensional task |
 | SGD Classifier | 0.39 | Lowest; struggled across multiple classes |
 
-Additional evidence from the notebook: the **SVM classification report** shows **weighted precision/recall/F1 ≈ 0.80** over **6,336 test images**.
+Additional evidence: the **SVM classification report** shows **weighted precision/recall/F1 ≈ 0.80** over **6,336 test images**.
 
 ---
 
